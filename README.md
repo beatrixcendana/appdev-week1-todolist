@@ -1,4 +1,10 @@
 <!--- STARTEXCLUDE --->
+# ALL LINKS PROVIDED
+- https://github.com/datastaxdevs/appdev-week1-todolist
+- https://salmon-jay-i90pqlmu.ws-us16.gitpod.io/
+- https://codepen.io/DatastaxDevs/pen/WNjrXXp
+
+
 # TODO + Astra + Cassandra 📒
 *10 minutes, Beginner, [Start Building](https://github.com/DataStax-Examples/todo-astra-jamstack-netlify#prerequisites)*
 
